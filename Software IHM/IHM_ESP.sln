@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHM_ESP", "IHM_ESP.csproj", "{996A2937-5C6D-4C00-B8A1-69B62202B07D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E7C348FE-4829-4946-B71C-BCD68C735B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{996A2937-5C6D-4C00-B8A1-69B62202B07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996A2937-5C6D-4C00-B8A1-69B62202B07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996A2937-5C6D-4C00-B8A1-69B62202B07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996A2937-5C6D-4C00-B8A1-69B62202B07D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF1C7FC9-4C1A-4F9A-859D-37EF205138C2}
+	EndGlobalSection
+EndGlobal
